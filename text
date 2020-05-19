@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<title>Текст песни</title>
+	<link rel="stylesheet" href="css/reset.css">
+	<link rel="stylesheet" href="css/style.css">
+	<link rel="shortcut icon" href="/images/favicon.ico" type="image/x-icon">
+   </head>
+ <body>
+
+	<div class="a">
+		<h1>RSACxELLA-NBA</h1>
+	</div>
+
+	<div class="c">
+		
+<div class="b">
+	<p>Текст</p><br>
+<p>Не мешай, не мешай</p>
+<p>Остаться одной — моя печаль</p>
+<p><p>Улетай, улетай</p>
+<p>В свой далёкий космос</p>
+<p>И меня забывай</p><br>
+<p>Припев</p>
+<p>Эти крылья не мои, я не могу их расправить</p>
+<p>Крылья не мои, я никогда не взлечу</p>
+<p>Крылья не мои, я не могу их расправить</p>
+<p>Крылья не мои-мои-мои</p><br>
+<p>Не мешай, не мешай</p>
+<p>Рядом быть невозможно, прости, прощай</p>
+<p>Утекай, утекай</p>
+<p>В незнакомое море</p>
+<p>К чужим берегам</p><br>
+<p>Я рисовал тебя, ты рисовала меня</p>
+<p>Я рисовался, и ты рисовалась тогда</p>
+<p>Моя ставка не зашла на NBA</p><br>
+<p>Припев</p>
+<p>Эти крылья не мои, я не могу их расправить</p>
+<p>Крылья не мои, я никогда не взлечу</p>
+<p>Крылья не мои, я не могу их расправить</p>
+<p>Крылья не мои-мои-мои</p>
+</div>
+
+	</div>
+	<div class="d">
+		
+ 			<iframe width="560" height="315" src="https://www.youtube.com/embed/7kKO3jLR2jg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+		
+		</div>
+</body>
+</html>
